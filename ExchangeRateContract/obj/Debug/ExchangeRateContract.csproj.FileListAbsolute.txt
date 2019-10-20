@@ -1,0 +1,5 @@
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateContract\bin\Debug\ExchangeRateContract.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateContract\bin\Debug\ExchangeRateContract.pdb
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateContract\obj\Debug\ExchangeRateContract.csproj.CoreCompileInputs.cache
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateContract\obj\Debug\ExchangeRateContract.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateContract\obj\Debug\ExchangeRateContract.pdb

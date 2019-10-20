@@ -1,0 +1,15 @@
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\obj\Debug\ExchangeRateBL.csprojAssemblyReference.cache
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\obj\Debug\ExchangeRateBL.csproj.CoreCompileInputs.cache
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\ExchangeRateBL.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\ExchangeRateBL.pdb
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\ExchangeRateModel.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\Helper.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\ExchangeRateModel.pdb
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\Helper.pdb
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\obj\Debug\ExchangeRateBL.csproj.CopyComplete
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\obj\Debug\ExchangeRateBL.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\obj\Debug\ExchangeRateBL.pdb
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\System.Web.Http.dll
+C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateBL\bin\Debug\System.Web.Http.xml
