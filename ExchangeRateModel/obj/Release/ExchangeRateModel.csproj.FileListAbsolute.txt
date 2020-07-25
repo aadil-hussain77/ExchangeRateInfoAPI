@@ -1,0 +1,6 @@
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\bin\Release\ExchangeRateModel.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\bin\Release\ExchangeRateModel.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Release\ExchangeRateModel.csproj.CoreCompileInputs.cache
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Release\ExchangeRateModel.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Release\ExchangeRateModel.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Release\ExchangeRateModel.csprojAssemblyReference.cache

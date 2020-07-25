@@ -1,0 +1,5 @@
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\Helper\bin\Release\Helper.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\Helper\bin\Release\Helper.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\Helper\obj\Release\Helper.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\Helper\obj\Release\Helper.pdb

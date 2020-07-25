@@ -1,0 +1,14 @@
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\ExchangeRateBL.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\ExchangeRateBL.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\ExchangeRateModel.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\Helper.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\Newtonsoft.Json.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\System.Web.Http.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\ExchangeRateModel.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\Helper.pdb
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\bin\Release\System.Web.Http.xml
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\obj\Release\ExchangeRateBL.csprojAssemblyReference.cache
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\obj\Release\ExchangeRateBL.csproj.CoreCompileInputs.cache
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\obj\Release\ExchangeRateBL.csproj.CopyComplete
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\obj\Release\ExchangeRateBL.dll
+C:\Users\aaadil\Source\Repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateBL\obj\Release\ExchangeRateBL.pdb
