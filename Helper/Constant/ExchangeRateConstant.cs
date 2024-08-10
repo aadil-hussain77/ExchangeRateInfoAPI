@@ -41,14 +41,19 @@
         public const string ContentType = "application/json";
 
         /// <summary>
+        /// Required content type
+        /// </summary>
+        public const string APIKey = "apikey";
+
+        /// <summary>
         /// Pattern to set start date
         /// </summary>
-        public const string StartAt = "history?start_at=";
+        public const string StartAt = "timeseries?start_date=";
 
         /// <summary>
         /// Pattern to set end date
         /// </summary>
-        public const string EndAt = "&end_at=";
+        public const string EndAt = "&end_date=";
 
         /// <summary>
         /// Invalid input error message

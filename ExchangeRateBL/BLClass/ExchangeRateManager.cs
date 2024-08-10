@@ -25,6 +25,11 @@
         readonly string baseUrl = ConfigurationManager.AppSettings[ExchangeRateConstant.PathKey];
 
         /// <summary>
+        /// API Url
+        /// </summary>
+        readonly string apiKey = ConfigurationManager.AppSettings[ExchangeRateConstant.APIKey];
+
+        /// <summary>
         /// Client object to consume exchange rate api
         /// </summary>
         HttpClient _httpClient;
@@ -199,11 +204,14 @@
         /// </summary>
         private void ClientInitialSetup()
         {
+            //BggK3GZaHrn4KK8i5ATDU9yoyWHM4zqK
             try
             {
                 _httpClient.BaseAddress = new Uri(baseUrl);
                 _httpClient.DefaultRequestHeaders.Accept.Clear();
+                _httpClient.DefaultRequestHeaders.Clear();                
                 _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue(ExchangeRateConstant.ContentType));
+                _httpClient.DefaultRequestHeaders.Add(ExchangeRateConstant.APIKey, apiKey);
             }
             catch (Exception)
             {

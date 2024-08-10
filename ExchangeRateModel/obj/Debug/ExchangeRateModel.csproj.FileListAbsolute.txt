@@ -3,3 +3,9 @@ C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateModel\bin\Debug
 C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.csproj.CoreCompileInputs.cache
 C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.dll
 C:\Users\aaadil.EAD\source\repos\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.pdb
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\bin\Debug\ExchangeRateModel.dll
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\bin\Debug\ExchangeRateModel.pdb
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.csproj.AssemblyReference.cache
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.csproj.CoreCompileInputs.cache
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.dll
+C:\Users\z004jvkb\source\repos\aadil-hussain77\ExchangeRateInfoAPI\ExchangeRateModel\obj\Debug\ExchangeRateModel.pdb
